@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+## My favorite things:
+* Books
+  * Especially Harry Potter
+* My two dogs, Hera & Luna
+* Painting
